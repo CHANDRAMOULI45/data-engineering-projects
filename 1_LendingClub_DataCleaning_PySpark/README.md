@@ -20,3 +20,7 @@ Clean and preprocess raw Lending Club financial data for analytics.
 ## ✅ Outcome:
 - Cleaned dataset with >95% data quality improvement
 - Ready for analytics or ML modeling
+
+- ## 📸 Sample Output
+
+![Sample Output](output.png)
